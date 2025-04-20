@@ -1,0 +1,12 @@
+{
+  "name": "VimGaku",
+  "description": "Use Vim Commands for sentence mining",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "Vimgaku.png"
+  }
+}
+
+
